@@ -14,7 +14,7 @@ I combine a deep passion for software engineering with hands-on, practical exper
 ### 💻 My Tech Stack
 - **Languages:** Python, C++, C, C#, Assembler
 - **AI & Vision:** YOLO, OpenCV, PyTorch, CUDA (2x NVIDIA Certified)
-- **Tools & Frameworks:** Git, MATLAB, Simulink
+- **Tools & Frameworks:** Git, VS, VSCode, MATLAB, Simulink
 - **Hardware:** PCB Diagnostics, Alarm Systems (Satel, Roger), Microcontrollers, SEP 1kV
 
 ### 📬 Connect with me
