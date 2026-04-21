@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Łukasz! 👋
 
-<!--
-**Fovezik/Fovezik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Control Engineering & Robotics Student | Electronics Technician | AI & Computer Vision Enthusiast
 
-Here are some ideas to get you started:
+I combine a deep passion for software engineering with hands-on, practical experience in electronics. I love bridging the gap between **Hardware (IoT, Embedded)** and **Software (AI, Computer Vision)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 3rd-year Control Engineering, Cybernetics, and Robotics student at **Gdańsk University of Technology**.
+- 🛠️ Certified **Electronics Technician** with a background in designing, modernizing, and repairing enterprise-grade security systems.
+- 🧠 Currently focused on building real-time automated vision systems using **YOLO**, **PyTorch**, and accelerating them with **CUDA C++**.
+- 💡 Exploring the fields of Generative AI and scalable distributed systems.
+- 🎵 Fun fact: When I'm not coding or soldering, I perform on stage as a certified musician in local bands!
+
+### 💻 My Tech Stack
+- **Languages:** Python, C++, C, C#, Assembler
+- **AI & Vision:** YOLO, OpenCV, PyTorch, CUDA (2x NVIDIA Certified)
+- **Tools & Frameworks:** Git, MATLAB, Simulink
+- **Hardware:** PCB Diagnostics, Alarm Systems (Satel, Roger), Microcontrollers, SEP 1kV
+
+### 📬 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/TUTAJ_WKLEJ_SWOJ_LINK_DO_LINKEDIN)
+- Email: lukasz.mroczek@proton.me
