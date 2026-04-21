@@ -19,5 +19,5 @@ I combine a deep passion for software engineering with hands-on, practical exper
 - **Hardware:** PCB Diagnostics, Alarm Systems (Satel, Roger), Microcontrollers, SEP 1kV
 
 ### 📬 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/TUTAJ_WKLEJ_SWOJ_LINK_DO_LINKEDIN)
+- [LinkedIn](https://www.linkedin.com/in/lukasz-mroczek)
 - Email: lukasz.mroczek@proton.me
